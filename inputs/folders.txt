@@ -1,0 +1,10 @@
+labels
+	model1: yolov5l_lc-101_dc-1
+		img_1.txt
+		img_n.txt
+	model2: yolov5l_nj-101_dc-1
+		img_1.txt
+		img_n.txt
+	model3: yolov5l_xh-1_dc-1
+		img_1.txt
+		img_n.txt

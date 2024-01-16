@@ -1,0 +1,10 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+numpy>=1.18.5,<1.24.0
+tqdm>=4.41.0
+
+# Plotting ------------------------------------
+opencv-python>=4.1.1
+torch>=1.7.0,!=1.12.0
+matplotlib>=3.2.2

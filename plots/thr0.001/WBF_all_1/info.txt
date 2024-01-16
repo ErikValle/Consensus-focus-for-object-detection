@@ -1,0 +1,5 @@
+               Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95
+                 all         889        6123       0.868       0.432       0.435       0.316
+          pedestrian         889        1333       0.831       0.361       0.358        0.24
+   motorized-vehicle         889        4556       0.899       0.542       0.557       0.417
+non-motorized-vehicle         889         234       0.873       0.393       0.392       0.291

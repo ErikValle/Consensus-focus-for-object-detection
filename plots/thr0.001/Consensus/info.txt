@@ -1,0 +1,8 @@
+iou_thr = 0.50
+skip_box_thr=3*[0.0001]
+
+               Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95
+                 all         889        6123       0.775       0.432        0.43       0.313
+          pedestrian         889        1333       0.843       0.351       0.353       0.238
+   motorized-vehicle         889        4556       0.831       0.557       0.554       0.418
+non-motorized-vehicle         889         234       0.651       0.389       0.384       0.282
